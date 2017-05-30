@@ -8,3 +8,5 @@ Aliquam laoreet ullamcorper hendrerit. Etiam rutrum elit massa, volutpat element
 Sed at feugiat eros. Nullam in quam sit amet erat maximus convallis. Morbi hendrerit elit quam, vitae egestas lectus dignissim eget. 
 Phasellus egestas posuere quam. Etiam porttitor mauris non dictum condimentum. 
 Proin vel fermentum odio. Morbi auctor velit nec varius condimentum. Ut ac iaculis arcu, a dictum nisl. 
+
+Edycja z poziomu serwisu GitHub !!!

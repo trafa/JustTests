@@ -14,4 +14,8 @@ Proin rhoncus quam et enim scelerisque consequat. Etiam sed erat sit amet erat v
 Mauris malesuada eros turpis, vel facilisis quam tempus quis. Curabitur hendrerit condimentum sapien at congue. 
 Mauris tincidunt dictum eleifend. Phasellus sollicitudin orci lobortis lectus posuere venenatis. 
 Morbi nunc enim, pulvinar ut tortor id, rutrum tincidunt libero. Praesent pretium consequat lobortis.
-Conflict 5
+
+Commit1
+
+Commit2
+
